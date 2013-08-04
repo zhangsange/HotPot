@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HotPot</string>
+
+    <!-- 退出对话框 -->
+    <string name="app_quit_ok">确定</string>
+    <string name="app_quit_cencel">取消</string>
+    <string name="app_quit_title">退出程序</string>
+    <string name="app_quit_message">确定退出程序吗？</string>
+    
+    <!-- 无网络连接对话框 -->
+    <string name="app_action_dialog_no_network_title">提示</string>
+    <string name="app_action_dialog_no_network_quit">确定</string>
+    <string name="app_action_dialog_no_network_setting">设置</string>
+    <string name="app_action_dialog_no_network_message">当前网络不可用。请设置您的网络后再试。</string>
+    
+    
+</resources>
